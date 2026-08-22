@@ -1,6 +1,5 @@
 # Hi there, I'm Jyotshna Pogiri 👋
-### IT Graduate (May 2025) | GenAI, Python & Automation Engineer
-Experience / Knowledge as a developer building intelligent LLM Agents, DevSecOps automated CI/CD pipelines, and applied deep learning projects. Strong focus on building production-ready automated workflows.
+### I'm a 2025 IT grad who likes taking an idea, breaking it into pieces, and building it — usually in Python, usually with AI somewhere in the mix. Lately that's meant RAG pipelines, automated security tooling, and teaching a test agent to fix its own broken selectors. Always learning something new, always shipping.
 ---
 ## 🛠️ Technical Tech Stack
 - **Languages:** Python, SQL, HTML, CSS
@@ -31,5 +30,5 @@ Experience / Knowledge as a developer building intelligent LLM Agents, DevSecOps
 ---
 ## 🎯 Target Horizons & Availability
 - **Preferred Roles:** Software Engineer (Python), Associate GenAI Developer, QA Automation Engineer, DevSecOps Trainee
-- **Current Location:** Hyderabad / Bengaluru / Remote India
+- **Current Location:** Hyderabad / Remote India
 - **Open for Hire:** Yes, immediate onboarding available.
